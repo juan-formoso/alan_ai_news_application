@@ -10,7 +10,7 @@ Developed with:
 
 ## Installing Dependencies
 
-> Frontend
+> Run:
 ```bash
 cd src/
 npm install
@@ -23,10 +23,13 @@ npm install
     cd src/ && npm start
   ```
   
-## Functionalitites
-  * 
+## How to use it?
+
+* First, click on the button in the lower right corner (Do this every time you want to order or request a command).
+* Then, try asking "What can I do here?" or "What does this app do?" and enjoy yourself discovering it's functionalities! ;)
 
 ## Project Status
+
 * Ready to deploy
 
 ### Useful links:
