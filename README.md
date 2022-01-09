@@ -12,7 +12,6 @@ Developed with:
 
 > Run:
 ```bash
-cd src/
 npm install
 ``` 
 ## Setup to run
@@ -20,7 +19,7 @@ npm install
 * Start development server:
 
   ```
-    cd src/ && npm start
+    npm start
   ```
   
 ## How to use it?
