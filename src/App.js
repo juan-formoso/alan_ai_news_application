@@ -64,7 +64,7 @@ const App = () => {
             </div>
           </div>
         ) : null}
-        <img src="" className={classes.alanLogo} alt="NEWS" />
+        <img src="https://media.discordapp.net/attachments/379308680413446166/931651624085114910/news-removebg-preview.png?width=568&height=426" className={classes.alanLogo} alt="NEWS" />
       </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
       <Modal isOpen={isOpen} setIsOpen={setIsOpen} />
