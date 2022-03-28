@@ -29,7 +29,7 @@ npm install
 
 ## Project Status
 
-* Ready to deploy
+* Done!
 
 ### Useful links:
   - [GitHub](https://github.com/alan-ai)
